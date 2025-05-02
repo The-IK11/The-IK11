@@ -1,9 +1,10 @@
  
-          <!-- Banner -->
-[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fmyofficework000%2Fmyofficework000&psig=AOvVaw3aBK1xaB0c94anIyY37qzv&ust=1746252115992000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCPDOvoS8hY0DFQAAAAAdAAAAABAE))
+          
+![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
+
 
 <h1 align="center">Hi 👋, I'm MD. Ibrahim Khalil</h1>
-<h3 align="center"> The IK11 • Flutter Developer • CSE Student</h3>
+<h3 align="center"> The IK11 • Mobile Application Developer • Using Flutter</h3>
 
 ---
 ## 👨‍💻 About Me
@@ -47,15 +48,6 @@
   <img src="https://img.shields.io/badge/Localization-FF5722?style=for-the-badge&logo=flutter&logoColor=white" />
 </p>
 
----
-
-## 📫 How to reach me:
-
-- 📧 **Email:** [nahidhassan761@gmail.com](mailto:nahidhassan761@gmail.com)  
-- 📞 **Phone:** [+880 1785-489275](tel:+8801785489275)  
-- 🔗 **LinkedIn:** [Visit my LinkedIn Profile](https://www.linkedin.com/in/your-profile)  
-- 🔗 **Facebook:** [Visit my Facebook Profile](https://www.facebook.com/your-profile)  
-- 🌐 **Portfolio Website:** [Visit my Portfolio](https://yourportfolio.com)
 
 ---
 
@@ -88,21 +80,23 @@
 | 🧠 Flutter   | 🔵🔵🔵🔵🔵🔵🔵🔵🔵⚪ (90%) |
 | 🔥 Firebase | 🔵🔵🔵🔵🔵🔵🔵🔵⚪⚪ (80%) |
 | ⚙️ GetX     | 🔵🔵🔵🔵🔵🔵🔵🔵🔵⚪ (85%) |
-| 🌀 RxDart   | 🔵🔵🔵🔵🔵🔵🔵⚪⚪⚪ (75%) |
-
-<p align="center">
-  <img src="https://svgshare.com/i/14Lk.svg" alt="Flutter 90%" width="120"/>
-  <img src="https://svgshare.com/i/14Lg.svg" alt="Firebase 80%" width="120"/>
-  <img src="https://svgshare.com/i/14Lf.svg" alt="GetX 85%" width="120"/>
-  <img src="https://svgshare.com/i/14Lp.svg" alt="RxDart 75%" width="120"/>
-</p>
+| 🌀 Rest Api  | 🔵🔵🔵🔵🔵🔵🔵⚪⚪⚪ (75%) |
 
 ---
 
-### 📬 Let's Connect
-
-- 🧑‍💻 [LinkedIn](https://linkedin.com/in/your-profile)
-- 🌐 [Portfolio Website](https://yourwebsite.com)
-- 📧 theik11@email.com
+📈 My Project Contributions
+<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=The-IK11&theme=tokyo-night" alt="Activity Graph" /> </div>
 
 ---
+
+
+## 📫 How to reach me:
+
+- 📧 **Email:** [ibrahim258159@gmail.com](ibrahim2581591@gmail.com)  
+- 📞 **Phone:** [+880 1889254301](tel:+8801889254301)  
+- 🔗 **LinkedIn:** [Visit my LinkedIn Profile](https://www.linkedin.com/in/md-ibrahim-khalil-b55b6a226/)  
+- 🔗 **Facebook:** [Visit my Facebook Profile](https://www.facebook.com/ibrahim.khalil.926606))  
+- 🌐 **Portfolio Website:** [Visit my Portfolio](https://theik001portfolio.my.canva.site/?fbclid=IwY2xjawKBQrpleHRuA2FlbQIxMABicmlkETE2TWRhQkU3UUZsQUtIVmp4AR6ZbHR53zOiCvdZbTSwiI2S6tD4j874OwhhMPFcFHgAkjTv02kDOJ4FhFQw5A_aem_j8rA0MLCUd-ehFuI7mGXow))
+
+---
+
