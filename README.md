@@ -9,18 +9,15 @@
 <h3 align="center"> Mobile Application Developer • Using Dart • Flutter •Firebase • Rest API </h3>
 
 ---
-## 👨‍💻 About Me
+## About Me
 
-- 🔭 I’m currently working on **Flutter mobile apps**
-- 🌱 Learning **App Optimization, focusing on building an app speed tool similar to DevOps**
-- 🎯 Goal: Become a **Full-Stack Mobile Dev**
-- 👨‍💻 I create beautiful Flutter UI designs and build powerful app functionalities.
-- 👯 I’m looking to collaborate on Mobile App Projects, Flutter Development, and Open Source.
-- 📽️ I make short videos on YouTube: [The IK11](https://www.youtube.com/@TheIK11)
-- 💬 Ask me about Flutter, Firebase, REST APIs, and State Management (GetX, Provider)
-- 📧 Reach me at: `ibrahim258159@gmail.com`
+Flutter & Mobile App Engineer building production-ready applications with a focus on performance, scalability, and clean architecture. I specialize in crafting responsive UI and robust app functionalities while expanding into backend and full-stack development.
 
-
+- **Focus**: App Optimization · Clean Architecture · Scalable Mobile Systems  
+- **Mobile**: Flutter · Dart · GetX · Provider · Bloc  
+- **Backend**: REST APIs · Firebase · Learning Node.js & Laravel  
+- **Tools**: Git · GitHub · Android Studio · VS Code · Figma  
+  
 ---
 
 ### 🛠️ Tech Stack
