@@ -18,7 +18,7 @@
 - 👯 I’m looking to collaborate on Mobile App Projects, Flutter Development, and Open Source.
 - 📽️ I make short videos on YouTube: [The IK11](https://www.youtube.com/@TheIK11)
 - 💬 Ask me about Flutter, Firebase, REST APIs, and State Management (GetX, Provider)
-- 📧 Reach me at: `theik11.official@gmail.com`
+- 📧 Reach me at: `ibrahim258159@gmail.com`
 
 
 ---
