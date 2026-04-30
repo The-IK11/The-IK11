@@ -47,6 +47,20 @@ Flutter & Mobile App Engineer building production-ready applications with a focu
   <img src="https://img.shields.io/badge/Localization-FF5722?style=for-the-badge&logo=flutter&logoColor=white" />
 </p>
 
+---
+# 📱 Mobile Applications
+
+Below are my production-ready apps published on both the Play Store and App Store.
+
+| App Name | Description | Android (Play Store) | iOS (App Store) |
+| :--- | :--- | :--- | :--- |
+| **Nutrimir** | AI-powered meal analysis for calorie & macro insights. | [Download](https://play.google.com/store/apps/details?id=com.nutrimir.app) | [Download](https://apps.apple.com/us/app/nutrimir/id6751311488) |
+| **Sell Your Strips** | Marketplace for buying/selling diabetic medical accessories. | [Download](https://play.google.com/store/apps/details?id=com.sellyourstripsusa.app&pcampaignid=web_share) | [Download](https://play.google.com/store/apps/details?id=com.humbleunderdogs.app&hl=en) |
+| **MindGuardian** | AI-powered mental wellness and emotional tracking. | [Download](https://play.google.com/store/apps/details?id=com.mindgurdina.app) | [Download](https://apps.apple.com/us/app/mindguardian/id6752973529) |
+| **Rovascore** | Real-time live sports scores and player statistics. | [Download](https://play.google.com/store/apps/details?id=com.rovascore.app&pcampaignid=web_share) | [Download](https://apps.apple.com/us/app/rovascore-live-scores-news/id6756863993) |
+| **Underdog** | Fitness supplements & streetwear e-commerce with gamified rewards. | [Play Store](https://play.google.com/store/apps/details?id=com.humbleunderdogs.app) | [App Store](https://play.google.com/store/apps/details?id=com.humbleunderdogs.app&hl=en) |
+| **Lifresh** | A lifestyle and wellness application focused on fresh living. | [Play Store](https://play.google.com/store/apps/details?id=com.lifresh.app) | [App Store](https://apps.apple.com/us/app/lifresh/id6758229966) |
+| **Ayos** | Service-based platform or marketplace application. | [Play Store](https://play.google.com/store/apps/details?id=com.ayos.app&pcampaignid=web_share) | [App Store](https://apps.apple.com/us/app/lifresh/id6758229966) |
 
 ---
 
