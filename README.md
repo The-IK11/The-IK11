@@ -61,6 +61,7 @@ Below are my production-ready apps published on both the Play Store and App Stor
 | **Underdog** | Fitness supplements & streetwear e-commerce with gamified rewards. | [Play Store](https://play.google.com/store/apps/details?id=com.humbleunderdogs.app) | [App Store](https://play.google.com/store/apps/details?id=com.humbleunderdogs.app&hl=en) |
 | **Lifresh** | A lifestyle and wellness application focused on fresh living. | [Play Store](https://play.google.com/store/apps/details?id=com.lifresh.app) | [App Store](https://apps.apple.com/us/app/lifresh/id6758229966) |
 | **Ayos** | Service-based platform or marketplace application. | [Play Store](https://play.google.com/store/apps/details?id=com.ayos.app&pcampaignid=web_share) | [App Store](https://apps.apple.com/us/app/lifresh/id6758229966) |
+| **WingSync** | WingSync helps pilots, crew, frequent flyers, and families share flight journeys simply, clearly, and in real time | [Play Store](https://play.google.com/store/apps/details?id=com.wingsync.app&hl=en_GB) | [App Store](https://apps.apple.com/gb/app/wingsync/id6766338480) |
 
 ---
 
