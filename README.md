@@ -110,7 +110,7 @@ Below are my production-ready apps published on both the Play Store and App Stor
 - 📞 **Phone:** [+880 1889254301](tel:+8801889254301)  
 - 🔗 **LinkedIn:** [Visit my LinkedIn Profile](https://www.linkedin.com/in/md-ibrahim-khalil-b55b6a226/)  
 - 🔗 **Facebook:** [Visit my Facebook Profile](https://www.facebook.com/ibrahim.khalil.926606))  
-- 🌐 **Portfolio Website:** [Visit my Portfolio](https://theik001portfolio.my.canva.site/?fbclid=IwY2xjawKBQrpleHRuA2FlbQIxMABicmlkETE2TWRhQkU3UUZsQUtIVmp4AR6ZbHR53zOiCvdZbTSwiI2S6tD4j874OwhhMPFcFHgAkjTv02kDOJ4FhFQw5A_aem_j8rA0MLCUd-ehFuI7mGXow))
+- 🌐 **Portfolio Website:** [Visit my Portfolio](ibrahim-theik11portfolio-75f428.netlify.app))
 
 ---
 
